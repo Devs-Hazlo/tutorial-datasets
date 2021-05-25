@@ -1,7 +1,6 @@
 Detailed data description of Credit Risk dataset:
 
 | Feature Name | Description |
-
 | --- | --- |
 | person_age	| Age |
 | person_income	| Annual Income |
